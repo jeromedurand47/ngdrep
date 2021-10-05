@@ -1,4 +1,4 @@
 # ngdrep
-> Welcome to peonland
+> Welcome to peonland\n
 > This is a push test
 > First push failed
